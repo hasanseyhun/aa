@@ -1,6 +1,6 @@
 # Prompt ChatGPT — 3 présentations PowerPoint « Projets Magnésium »
 
-> Mode d'emploi : remplis les 3 champs `[IDÉE 1/2/3]` (section 2), colle tout le bloc ci-dessous dans ChatGPT (de préférence un modèle avec recherche web / Deep Research activé). Travaille ensuite une présentation à la fois.
+> Mode d'emploi : les 3 projets sont déjà décrits (section 2). Colle tout le bloc ci-dessous dans ChatGPT (de préférence un modèle avec recherche web / Deep Research activé). Travaille ensuite une présentation à la fois.
 
 ---
 
@@ -12,11 +12,36 @@ Tu es un consultant senior en stratégie d'innovation et en pitch d'investisseme
 ### 2. Les 3 projets
 Je dois préparer **3 présentations PowerPoint, une par projet**, dont le but est de **convaincre un jury de responsables techniques et économiques d'étudier le projet et d'investir dessus**. Dans chaque projet, le **magnésium (Mg)** est l'élément central de la solution.
 
-- **[IDÉE 1]** : _décris en 3-5 lignes : produit / usage, forme du Mg (alliage, poudre, mousse, hydrure, anode, implant…), cible, stade d'avancement (TRL)_
-- **[IDÉE 2]** : _idem_
-- **[IDÉE 3]** : _idem_
+Les pistes ci-dessous sont des **angles de départ** : vérifie chaque chiffre avec des sources récentes, complète, et corrige si nécessaire.
 
-Informations complémentaires (facultatif) : secteur du jury, pays/zone visée (France / UE / monde), montant recherché, équipe, brevets existants, partenaires.
+#### Projet 1 — Plateforme multifonctionnelle Mg–Al (magnésium + aluminium)
+- **Concept** : une base technologique commune Mg–Al (alliages Mg-Al type AZ/AM, et/ou multimatériaux Mg/Al assemblés : bimétaux colaminés, pièces hybrides, assemblages soudés/collés) déclinable en plusieurs produits. Une même pièce cumule plusieurs fonctions : structure légère + amortissement des vibrations + dissipation thermique + blindage électromagnétique (CEM).
+- **Marchés cibles** : allègement des véhicules électriques (caisses, carters, supports de batterie, planches de bord), aéronautique et spatial (sièges, carters), électronique grand public (coques d'ordinateurs/téléphones), outillage et drones.
+- **Atouts du Mg à défendre** : métal structurel le plus léger (≈ 1,74 g/cm³, ≈ 35 % plus léger que l'aluminium et ≈ 75 % plus léger que l'acier), excellente capacité d'amortissement, très bonne coulabilité (fonderie sous pression, pièces intégrées en une seule pièce), usinabilité, recyclabilité. L'aluminium apporte résistance à la corrosion, ductilité et une filière industrielle mature : **l'hybride combine le meilleur des deux**.
+- **Verrous à traiter honnêtement** : corrosion galvanique Mg/Al, formation d'intermétalliques fragiles (Mg₁₇Al₁₂) aux interfaces d'assemblage, fluage à chaud, inflammabilité perçue (alliages au calcium ou terres rares ininflammables, évolution des règles aéronautiques sur les sièges en Mg), coût et procédés d'assemblage.
+- **Concurrents à comparer** : alliages d'aluminium seuls, aciers à très haute résistance, composites à fibres de carbone (CFRP), plastiques techniques renforcés, titane (niche).
+- **Réglementation et leviers à explorer** : normes européennes d'émissions de CO₂ des flottes, futur règlement européen sur les véhicules hors d'usage (contenu recyclé), Critical Raw Materials Act (magnésium matière première critique et stratégique pour l'UE), REACH, normes de feu aéronautiques.
+
+#### Projet 2 — MgO-Thermal : matériaux thermoconducteurs à base d'oxyde de magnésium
+- **Concept** : charges de MgO (oxyde de magnésium, éventuellement traitées en surface et à morphologie contrôlée) intégrées dans des polymères pour former des matériaux **thermoconducteurs et isolants électriques** : matériaux d'interface thermique (TIM), pâtes et pads, résines d'enrobage (potting), adhésifs, plastiques thermoconducteurs, composés de moulage pour l'électronique.
+- **Marchés cibles** : packs batteries et électronique de puissance des véhicules électriques, centres de données et serveurs d'IA, 5G/télécoms, éclairage LED, onduleurs photovoltaïques, électronique grand public.
+- **Atouts du MgO à défendre** : bonne conductivité thermique intrinsèque (à vérifier, souvent citée ≈ 30–60 W/m·K, supérieure à l'alumine), excellente isolation électrique, densité plus faible que l'alumine (allègement), dureté plus faible que l'alumine (moins d'usure des équipements de mise en forme), coût bien inférieur au nitrure de bore et au nitrure d'aluminium, non toxique, sans halogène, matière première abondante (minerais, eau de mer, saumures).
+- **Verrous à traiter honnêtement** : sensibilité à l'humidité (hydratation en Mg(OH)₂) → traitements de surface (silanes, enrobage), dispersion et taux de charge élevés, viscosité, fiabilité à long terme, qualification client longue dans l'automobile et l'électronique.
+- **Concurrents à comparer** : alumine (Al₂O₃, référence du marché), nitrure de bore (BN), nitrure d'aluminium (AlN), oxyde de zinc (ZnO), charges carbonées (graphite, graphène, conductrices électriquement), silicones standards.
+- **Réglementation et leviers à explorer** : REACH, RoHS, exigences « sans halogène », classement feu UL 94, restriction européenne en préparation sur les PFAS, normes automobiles (AEC-Q, IATF 16949), sécurité incendie des batteries.
+
+#### Projet 3 — Mg-Heat : stockage d'énergie thermique à base de magnésium
+- **Concept** : stocker de la chaleur (chaleur fatale industrielle, solaire thermique, électricité renouvelable excédentaire convertie en chaleur) puis la restituer à la demande. Voies possibles à comparer pour choisir la plus pertinente : (a) **thermochimique** MgO/Mg(OH)₂ ou MgO/MgCO₃, (b) **hydrures** MgH₂, (c) **sels hydratés** de Mg (MgSO₄, MgCl₂) pour la basse température, (d) **matériaux à changement de phase** à base de Mg (sels hydratés ou alliages eutectiques métalliques pour la haute température).
+- **Marchés cibles** : décarbonation de la chaleur industrielle (agroalimentaire, papier, chimie, matériaux), récupération de chaleur fatale (y compris centres de données), réseaux de chaleur urbains, stockage saisonnier, solaire thermique à concentration, bâtiment.
+- **Atouts du Mg à défendre** : densités énergétiques élevées en thermochimique (plusieurs fois celles du stockage sensible eau/béton/roches, à chiffrer), stockage de longue durée **quasiment sans pertes** (la chaleur est stockée sous forme chimique et non sous forme de température), matériaux abondants, peu coûteux et non toxiques, plages de température adaptées à la chaleur industrielle, réversibilité.
+- **Verrous à traiter honnêtement** : stabilité en cyclage (frittage, agglomération), cinétique et transferts de chaleur/masse, conception du réacteur, maturité technologique encore faible pour le thermochimique (TRL à estimer), gestion de l'hydrogène pour la voie hydrure (sécurité, ATEX).
+- **Concurrents à comparer** : sels fondus (« solar salt » nitrates), stockage sensible (eau chaude, béton, roches, briques réfractaires — ex. batteries thermiques en briques ou en carbone déjà commercialisées), matériaux à changement de phase paraffiniques, batteries Li-ion couplées à des pompes à chaleur, chaudières gaz (scénario de référence).
+- **Réglementation et leviers à explorer** : directive européenne sur l'efficacité énergétique (valorisation de la chaleur fatale, obligations pour les centres de données), directive énergies renouvelables RED III (objectifs chaleur renouvelable dans l'industrie), prix du carbone du système européen d'échange de quotas (ETS) et son extension, aides publiques (France 2030, fonds chaleur ADEME, Innovation Fund européen), directive équipements sous pression et ATEX si hydrogène.
+
+#### Lien entre les 3 projets
+Les trois projets s'appuient sur la **même filière magnésium** (métal, alliages, oxyde). Ajoute dans chaque présentation une diapo courte « portefeuille » qui montre la cohérence et les synergies (approvisionnement, savoir-faire, recyclage, mutualisation de la R&D), sans détourner le jury du projet présenté.
+
+Informations complémentaires à me demander si besoin : secteur du jury, pays/zone visée (France / UE / monde), montant recherché, équipe, brevets existants, partenaires, stade d'avancement (TRL) de chaque projet.
 
 ### 3. Contraintes générales
 - Durée de présentation : **20 à 30 minutes** → prévoir **25 à 32 diapositives principales** (≈ 1 min / diapo) + **5 à 8 diapositives d'annexe** pour les questions.
@@ -86,5 +111,5 @@ Commence maintenant par l'étape 1.
 
 ## Conseils d'utilisation
 - Active la **recherche web / Deep Research** dans ChatGPT pour les chiffres de marché et les revues récentes, puis **vérifie chaque source** toi-même avant de présenter devant le jury.
-- Remplis bien les 3 descriptions d'idées : plus elles sont précises (forme du Mg, application, stade d'avancement), plus les arguments seront pertinents.
+- Si tu as plus de détails (stade d'avancement, résultats d'essais, équipe, montant recherché), ajoute-les en section 2 : les arguments seront plus précis.
 - Si le contexte devient trop long, ouvre une **nouvelle conversation par projet** en recollant le prompt et le plan validé.
